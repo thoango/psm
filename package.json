@@ -1,0 +1,14 @@
+{
+  "name": "psm",
+  "version": "1.0.0",
+  "description": "スキルチェック",
+  "main": "psm.js",
+  "scripts": {
+    "dev": "node psm.js"
+  },
+  "author": "thoango",
+  "license": "ISC",
+  "devDependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
